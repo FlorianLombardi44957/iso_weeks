@@ -1,6 +1,6 @@
 [project]
 name = "iso-weeks"
-version = "0.1.0"
+version = "0.1.1"
 description = "ISO-8601 week numbers and the year boundaries that surprise people."
 requires-python = ">=3.10"
 dependencies = []
